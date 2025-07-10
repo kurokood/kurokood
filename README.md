@@ -1,4 +1,14 @@
-## Hi there 👋
+Kumusta, I'm Mon 👋
+
+Welcome to my GitHub! I'm a cloud enthusiast with a deep passion for architecting secure, scalable cloud-native solutions — but this journey didn’t start in the cloud.
+
+Long before I entered the cloud space, I was a self-employed full-stack administrator managing a video-on-demand (VOD) streaming website. I built, maintained, and scaled the platform independently — handling everything from Linux server administration, front-end and back-end development, to payment integration and user experience. That project taught me the real-world challenges of building something from scratch, and more importantly, how to make it profitable.
+
+Through strategic monetization efforts like advertising, premium memberships, and backend automation, I turned the VOD platform into a sustainable source of income. That experience sparked my love for systems, automation, and technical problem-solving. Still, I knew there was more to learn — and that led me down the path of upskilling.
+
+Initially, I set my sights on a cybersecurity career. I dove into structured learning and earned certifications like:
+
+
 
 <!--
 **kurokood/kurokood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
