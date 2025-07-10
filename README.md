@@ -1,4 +1,4 @@
-Kumusta, I'm Mon 👋
+# Kumusta, I'm Mon 👋
 
 Welcome to my GitHub! I'm a cloud enthusiast with a deep passion for architecting secure, scalable cloud-native solutions — but this journey didn’t start in the cloud.
 
@@ -30,8 +30,20 @@ I’m constantly experimenting with AWS services, writing IaC templates, designi
 
 Cloud computing excites me because it’s where creativity meets engineering. I love turning an idea into a working, scalable architecture — from routing DNS traffic with Route 53, to securing resources with IAM, and delivering content globally through CloudFront.
 
-_____________________________________________________________________________________________________________________________________________
+## Some of my projects:
 
+- Recipe Sharing App. [Link](https://github.com/kurokood/recipe_sharing_app)
+- Cloud Resume Challenege. [Link](https://github.com/kurokood/cloud_resume_challenge)
+
+## Skilled in:
+
+- ☁️ AWS
+- 🏗 Terraform
+- ∞ CI/CD pipelines
+- 💠 Git/GitHub
+- 🐧 Linux, BASH
+- 🐍 Python
+- 🐳 Docker
 
 
 
